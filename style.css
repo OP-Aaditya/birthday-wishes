@@ -1,0 +1,13 @@
+.body_background
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas
+{
+   background-color: azure;
+   border-style: ridge;
+   border-width: 5;
+}
+
